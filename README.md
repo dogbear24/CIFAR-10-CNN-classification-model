@@ -1,1 +1,0 @@
-# CIFAR-10-CNN-classification-model
